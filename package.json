@@ -1,0 +1,21 @@
+{
+  "name": "SeleniumWebDriver_Full",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "dependencies": {
+    "selenium-webdriver": "~4.0.0-beta",
+    "mocha": "9.0.1",
+    "@types/node": "^13.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRevan/SeleniumWebDriver_Full.git"
+  },
+  "keywords": [],
+  "author": "Alexey Parunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexRevan/SeleniumWebDriver_Full/issues"
+  },
+  "homepage": "https://github.com/AlexRevan/SeleniumWebDriver_Full#readme"
+}
