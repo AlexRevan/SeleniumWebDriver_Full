@@ -311,6 +311,6 @@ driver
         await driver.findElement(By.xpath('//li[@id="doc-vqmods"]//span[@class="name" and text()="vQmods"]')).click();
         await driver.wait(until.elementIsVisible(driver.findElement(By.xpath('//h1[text()=" vQmods"]'))), 1000);
     })
-    .then((_) => driver.quit())
+    .then((_) => driver.quit());
 
 
